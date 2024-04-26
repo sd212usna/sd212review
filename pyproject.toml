@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sd212review"
-version = "0.0.1"
+version = "0.0.24"
 authors = [
     {name = "Dan Roche", email = "roche@usna.edu"}
 ]

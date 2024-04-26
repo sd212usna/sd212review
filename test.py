@@ -1,6 +1,6 @@
 from sd212review import whichunit
 
-assert whichunit(257863) == 2
-assert whichunit('m264351') == 3
+assert whichunit(261234) == 11
+assert whichunit('m264321') == 2
 
 print("all tests passed")
